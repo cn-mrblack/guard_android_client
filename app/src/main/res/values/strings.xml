@@ -1,0 +1,5 @@
+﻿<resources>
+    <string name="app_name">守护</string>
+    <string name="tracking_channel_name">上报服务</string>
+    <string name="tracking_channel_desc">正在后台运行以保护您的设备</string>
+</resources>
